@@ -1,0 +1,27 @@
+* {  
+    font-family: "Noto Sans", sans-serif; 
+}  
+
+header {  
+    box-shadow: 0px 0px 10px 0px #6f7d99;  
+    margin: 10px; /* Reduzido de 20px para 10px */  
+    display: flex;  
+    padding: 5px 10px; /* Reduzido o padding lateral para 10px */  
+    height: 80px; /* Ajuste a altura do header */  
+    align-items: center; /* Centraliza verticalmente o conteúdo do header */  
+}  
+
+body{ 
+    background-color: #DDDDDD;
+    text-align: left;
+}
+
+#LogoNavBar {  
+    width: 250px; /* Ajuste o tamanho do logo */  
+    height: auto; /* Mantém a proporção da imagem */  
+}
+
+.sectionMainSobre {
+    padding: 0.5% 15px;
+    
+}
